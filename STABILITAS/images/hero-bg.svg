@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1208px" height="694px" viewBox="0 0 1208 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>hero 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0149872%" y1="50%" x2="-8.15320034e-15%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#2E3E43" offset="0%"></stop>
+            <stop stop-color="#52656B" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1200" height="685.714286"></rect>
+        <filter x="-0.6%" y="-0.7%" width="101.2%" height="102.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#2E3E43" offset="0%"></stop>
+            <stop stop-color="#52656B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#52656B" offset="0%"></stop>
+            <stop stop-color="#2E3E43" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="3.061617e-15%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#2E3E43" offset="0%"></stop>
+            <stop stop-color="#52656B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-93.000000, -4911.000000)">
+            <g id="hero-4" transform="translate(97.000000, 4913.000000)">
+                <g id="background">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Rectangle-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Group-3" mask="url(#mask-3)">
+                        <polygon id="Rectangle-10" fill="url(#linearGradient-5)" points="1200 0 1200 150 565.714286 150 488.571429 0"></polygon>
+                        <polygon id="Rectangle-10" fill="url(#linearGradient-6)" points="0 0.131726621 598.396343 0 648 150 0 150"></polygon>
+                    </g>
+                    <g id="Group-4" mask="url(#mask-3)">
+                        <g transform="translate(0.000000, 536.000000)" id="Rectangle-11">
+                            <rect fill="url(#linearGradient-6)" x="600" y="0.17129751" width="600" height="149.533136"></rect>
+                            <rect fill="url(#linearGradient-7)" x="0" y="0.17129751" width="600" height="149.533136"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
